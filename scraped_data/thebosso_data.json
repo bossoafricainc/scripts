@@ -1,0 +1,219 @@
+{
+  "companyInfo": {
+    "name": "The Bosso",
+    "tagline": "",
+    "logoUrl": "https://thebosso.com/api/storage/10/180x43.png",
+    "contact": {
+      "phone": "",
+      "email": "support@thebosso.com",
+      "address": "Leopards Lane Kabulonga, Lusaka Zambia.support@thebosso.com"
+    },
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/BossoAfrica",
+      "twitter": "https://twitter.com/BossoAfrica",
+      "instagram": "https://www.instagram.com/bossoafrica/"
+    },
+    "mission": "",
+    "vision": "",
+    "values": []
+  },
+  "pages": {
+    "about": {
+      "title": "About",
+      "content": "",
+      "sections": []
+    },
+    "contact": {
+      "title": "Contact",
+      "content": "",
+      "sections": []
+    },
+    "flexiPay": {
+      "title": "FlexiPay",
+      "content": "",
+      "sections": []
+    },
+    "diaspora": {
+      "title": "Diaspora",
+      "content": "",
+      "sections": []
+    }
+  },
+  "footerLinks": [
+    {
+      "id": "link-1",
+      "title": "",
+      "url": "https://www.thebosso.com/",
+      "category": "Links",
+      "order": 0
+    },
+    {
+      "id": "link-2",
+      "title": "Leopards Lane Kabulonga, Lusaka Zambia.",
+      "url": "https://www.google.com/maps",
+      "category": "Links",
+      "order": 1
+    },
+    {
+      "id": "link-3",
+      "title": "support@thebosso.com",
+      "url": "mailto:support@thebosso.com",
+      "category": "Links",
+      "order": 2
+    },
+    {
+      "id": "link-4",
+      "title": "Blocks",
+      "url": "https://www.thebosso.com/collections?category=blocks",
+      "category": "Links",
+      "order": 3
+    },
+    {
+      "id": "link-5",
+      "title": "Cement",
+      "url": "https://www.thebosso.com/collections?category=cement",
+      "category": "Links",
+      "order": 4
+    },
+    {
+      "id": "link-6",
+      "title": "Glass",
+      "url": "https://www.thebosso.com/collections?category=glass",
+      "category": "Links",
+      "order": 5
+    },
+    {
+      "id": "link-7",
+      "title": "Home Building Packages",
+      "url": "https://www.thebosso.com/collections?category=home-building-packages",
+      "category": "Links",
+      "order": 6
+    },
+    {
+      "id": "link-8",
+      "title": "Roofing Sheets",
+      "url": "https://www.thebosso.com/collections?category=roofing-sheets",
+      "category": "Links",
+      "order": 7
+    },
+    {
+      "id": "link-9",
+      "title": "Tools and Equipment",
+      "url": "https://www.thebosso.com/collections?category=tools-and-equipment",
+      "category": "Links",
+      "order": 8
+    },
+    {
+      "id": "link-10",
+      "title": "About Us",
+      "url": "https://www.thebosso.com/about-us",
+      "category": "Links",
+      "order": 9
+    },
+    {
+      "id": "link-11",
+      "title": "Blogs",
+      "url": "https://www.thebosso.com/blogs",
+      "category": "Links",
+      "order": 10
+    },
+    {
+      "id": "link-12",
+      "title": "Offers",
+      "url": "https://www.thebosso.com/offers",
+      "category": "Links",
+      "order": 11
+    },
+    {
+      "id": "link-13",
+      "title": "Search",
+      "url": "https://www.thebosso.com/search",
+      "category": "Links",
+      "order": 12
+    },
+    {
+      "id": "link-14",
+      "title": "My Account",
+      "url": "https://www.thebosso.com/account/dashboard",
+      "category": "Links",
+      "order": 13
+    },
+    {
+      "id": "link-15",
+      "title": "My Orders",
+      "url": "https://www.thebosso.com/account/order",
+      "category": "Links",
+      "order": 14
+    },
+    {
+      "id": "link-16",
+      "title": "Track Order",
+      "url": "https://www.thebosso.com/order/tracking",
+      "category": "Links",
+      "order": 15
+    },
+    {
+      "id": "link-17",
+      "title": "Wishlist",
+      "url": "https://www.thebosso.com/wishlist",
+      "category": "Links",
+      "order": 16
+    },
+    {
+      "id": "link-18",
+      "title": "Compare",
+      "url": "https://www.thebosso.com/compare",
+      "category": "Links",
+      "order": 17
+    },
+    {
+      "id": "link-19",
+      "title": "Faq's",
+      "url": "https://www.thebosso.com/faq",
+      "category": "Links",
+      "order": 18
+    },
+    {
+      "id": "link-20",
+      "title": "Contact Us",
+      "url": "https://www.thebosso.com/contact-us",
+      "category": "Links",
+      "order": 19
+    },
+    {
+      "id": "link-21",
+      "title": "",
+      "url": "https://thebosso.com/",
+      "category": "Download App :",
+      "order": 20
+    },
+    {
+      "id": "link-22",
+      "title": "",
+      "url": "https://thebosso.com/",
+      "category": "Download App :",
+      "order": 21
+    },
+    {
+      "id": "link-23",
+      "title": "",
+      "url": "https://www.facebook.com/BossoAfrica",
+      "category": "Stay connected:",
+      "order": 22
+    },
+    {
+      "id": "link-24",
+      "title": "",
+      "url": "https://twitter.com/BossoAfrica",
+      "category": "Stay connected:",
+      "order": 23
+    },
+    {
+      "id": "link-25",
+      "title": "",
+      "url": "https://www.instagram.com/bossoafrica/",
+      "category": "Stay connected:",
+      "order": 24
+    }
+  ]
+}

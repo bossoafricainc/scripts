@@ -1,0 +1,17 @@
+{
+  "name": "weaviate-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for interacting with Weaviate",
+  "main": "inspect-weaviate.ts",
+  "scripts": {
+    "inspect": "ts-node inspect-weaviate.ts",
+    "create-super-admin": "ts-node create_super_admin.ts"
+  },
+  "dependencies": {
+    "@nestjs/config": "^3.2.2",
+    "firebase-admin": "^12.1.0",
+    "weaviate-client": "^2.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
